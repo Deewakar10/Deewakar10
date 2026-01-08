@@ -67,13 +67,14 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
 ### 🌐 Connect With Me
 <p align="left">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
   </a>
-  <a href="[https://www.linkedin.com/in/YOUR_LINKEDIN_ID](https://www.linkedin.com/in/deewakar-kumar-a18a58257/)">
+  <a href="https://www.linkedin.com/in/deewakar-kumar-a18a58257/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
+
 
 
 
