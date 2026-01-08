@@ -24,11 +24,15 @@
 src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
 ### 🙋‍♂️ About Me
-- 💻 Java | JDBC | Servlets
-- 🌱 Currently learning **Spring & Spring Boot**
-- 🔥 Love backend logic & problem solving
-- 🎯 Goal: **Full Stack Java Developer**
-- 📍 From India 🇮🇳
+
+- 👨‍💻 Passionate **Full Stack Developer**
+- ☕ Strong expertise in **Java, JDBC, Servlets & Spring Boot**
+- 🌐 Frontend skilled in **HTML, CSS, JavaScript & React**
+- 🧠 Enjoy building **real-world applications & backend logic**
+- 🚀 Continuously learning new technologies and best practices
+- 🎯 Goal: Become a **Professional Full Stack Java Developer**
+- 📍 Based in **India 🇮🇳**
+
 
 ---
 
@@ -69,6 +73,12 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
+</p>
+
+
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,react,git,github" />
 </p>
 
 ---
